@@ -1,5 +1,5 @@
 # Making the Invisible Visible: TowardHigh-Quality Terahertz TomographicImaging via Physics-Guided Restoration
-## The 3D Tomograph Results for 7 objects
+## The 3D Tomography Results for 7 objects
 
 # Box
 ![image](https://github.com/wtnthu/THz_Tomography/blob/main/3D/box_ijcv.gif)
