@@ -14,7 +14,7 @@
 ![image](https://github.com/wtnthu/THz_Tomography/blob/main/3D/eevee.gif)
 
 # Polarbear
-![image](https://github.com/wtnthu/THz_Tomography/blob/main/3D/polar.gif)
+![image](https://github.com/wtnthu/THz_Tomography/blob/main/3D/polarbear.gif)
 
 # Robot
 ![image](https://github.com/wtnthu/THz_Tomography/blob/main/3D/robot.gif)
