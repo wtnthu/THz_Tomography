@@ -11,7 +11,7 @@
 ![image](https://github.com/wtnthu/THz_Tomography/blob/main/3D/dna.gif)
 
 # Eevee
-![image](https://github.com/wtnthu/THz_Tomography/blob/main/3D/eevee.gif)
+![image](https://github.com/wtnthu/THz_Tomography/blob/main/3D/eevee2.gif)
 
 # Polarbear
 ![image](https://github.com/wtnthu/THz_Tomography/blob/main/3D/polarbear.gif)
